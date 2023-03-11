@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-I am Ritik Raj. I am a 3rd year Computer Science and Engineering student and a tech enthusiast. Find out more about me & feel free to connect with me here:
+- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🔭 I’m currently working on **Web Development**
+
+Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ritik_Raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ritik-raj-4565551b8/](https://www.linkedin.com/in/ritik-raj-4565551b8/))](https://www.linkedin.com/in/ritik-raj-4565551b8/)
 [![Instagram Badge](https://img.shields.io/badge/-Ritik_Raj-blue?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/_ritik__raj__/](https://www.instagram.com/_ritik__raj__/))](https://www.instagram.com/_ritik__raj__/)
