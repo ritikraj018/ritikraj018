@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am Ritik Raj. I am a 3rd year Computer Science and Engineering student and a tech enthusiast. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ritik-raj-4565551b8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-raj-4565551b8/)](https://www.linkedin.com/in/ritik-raj-4565551b8/)
+[![Linkedin Badge](https://img.shields.io/badge/-ritik_raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/ritik-raj-4565551b8/))](https://www.linkedin.com/in/ritik-raj-4565551b8/)
 
 [![Gmail Badge](https://img.shields.io/badge/-ritikrajbarh18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikrajbarh18@gmail.com)](mailto:ritikrajbarh18@gmail.com)
 
