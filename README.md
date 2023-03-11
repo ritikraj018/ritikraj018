@@ -20,7 +20,7 @@ I am Ritik Raj. I am a 3rd year Computer Science and Engineering student and a t
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ritik_Raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ritik-raj-4565551b8/](https://www.linkedin.com/in/ritik-raj-4565551b8/))](https://www.linkedin.com/in/ritik-raj-4565551b8/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Ritik_Raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.instagram.com/_ritik__raj__/](https://www.instagram.com/_ritik__raj__/))](https://www.instagram.com/_ritik__raj__/)
+[![Instagram Badge](https://img.shields.io/badge/-Ritik_Raj-blue?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/_ritik__raj__/](https://www.instagram.com/_ritik__raj__/))](https://www.instagram.com/_ritik__raj__/)
 
 [![Gmail Badge](https://img.shields.io/badge/-ritikrajbarh18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikrajbarh18@gmail.com)](mailto:ritikrajbarh18@gmail.com)
 
